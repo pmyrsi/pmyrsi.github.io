@@ -15,5 +15,7 @@ My intention is to share my views on different technology and data related produ
 is limited to the research performed and/or personal real world usage. If you agree or disagree with any of my points - GOOD! I think the world can benefit from more openly shared
 opions about products & solutions, especially in a world where sponsored campaigns intertwine very closely with user reviews on social media. 
 
+---
+
 Feel free to reach out to me on social media, I'd love to talk!
 [LinkedIn](https://www.linkedin.com/in/piotrmyrcha/)
