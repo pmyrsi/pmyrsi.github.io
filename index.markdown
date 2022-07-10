@@ -19,3 +19,7 @@ opions about products & solutions, especially in a world where sponsored campaig
 
 Feel free to reach out to me on social media, I'd love to talk!
 [LinkedIn](https://www.linkedin.com/in/piotrmyrcha/)
+
+---
+
+![Unsplash BI Laptop](/assets/lukas-blazek-unsplash.jpg)
