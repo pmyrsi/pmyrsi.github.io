@@ -4,7 +4,9 @@
 
 layout: default
 ---
-# Welcome lovers of product!
+# Piotr Myrcha - Product, Tech & Data Blog
+
+## Welcome lovers of product!
 
 ![Unsplash BI Laptop](/assets/lukas-blazek-unsplash.jpg)
 
