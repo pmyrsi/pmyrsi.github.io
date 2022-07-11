@@ -22,14 +22,6 @@ My intention is to share my views on different technology and data related produ
 is limited to the research performed and/or personal real world usage. If you agree or disagree with any of my points - __good__! I think the world can benefit from more openly shared
 opions about products & solutions, especially in a world where sponsored campaigns intertwine very closely with user reviews on social media. 
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
-
 ---
 
 Feel free to reach out to me on social media, I'd love to talk!  
