@@ -22,12 +22,20 @@ My intention is to share my views on different technology and data related produ
 is limited to the research performed and/or personal real world usage. If you agree or disagree with any of my points - __good__! I think the world can benefit from more openly shared
 opions about products & solutions, especially in a world where sponsored campaigns intertwine very closely with user reviews on social media. 
 
-@startmermaid
+```mermaid!
 pie title Pets adopted by volunteers
   "Dogs" : 386
   "Cats" : 85
   "Rats" : 35
-@endmermaid
+```
+
+@startuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: Another authentication Response
+@enduml
 
 ---
 
