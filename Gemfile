@@ -20,7 +20,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag", "~> 2.8.0"
   gem 'jemoji'
   gem "just-the-docs"
-  gem "jekyll-mermaid"
+  # gem "jekyll-mermaid"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
