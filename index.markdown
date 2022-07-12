@@ -23,8 +23,10 @@ is limited to the research performed and/or personal real world usage. If you ag
 opions about products & solutions, especially in a world where sponsored campaigns intertwine very closely with user reviews on social media. 
 
 ```mermaid!
-classDiagram
-Car *-- Engine
+pie title Pets adopted by volunteers
+  "Dogs" : 386
+  "Cats" : 85
+  "Rats" : 35
 ```
 
 ---
