@@ -22,7 +22,7 @@ My intention is to share my views on different technology and data related produ
 is limited to the research performed and/or personal real world usage. If you agree or disagree with any of my points - __good__! I think the world can benefit from more openly shared
 opions about products & solutions, especially in a world where sponsored campaigns intertwine very closely with user reviews on social media. 
 
-```mermaid!
+```mermaid
 pie title Pets adopted by volunteers
   "Dogs" : 386
   "Cats" : 85
