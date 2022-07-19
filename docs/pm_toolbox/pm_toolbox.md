@@ -9,8 +9,6 @@ parent: Blog Posts
 has_children: true
 has_toc: true
 ---
-# Piotr Myrcha - Product, Tech & Data Blog
-
-## Product Manager's Toolbox
+# Piotr Myrcha's Blog - Product Manager's Toolbox
 
 Collection of posts regarding PM tools, frameworks I find useful and also my approach to certain aspects of data PM work.
