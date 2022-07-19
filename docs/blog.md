@@ -9,8 +9,6 @@ permalink: /blog
 has_children: true
 has_toc: true
 ---
-# Piotr Myrcha - Product, Tech & Data Blog
-
-## Product Manager's Blog
+# Piotr Myrcha's Blog
 
 Hey, thanks for checking out my posts section. Here you can find my thoughts on different frameworks, tech products & reviews, as well as a breakdown of my process of work with internal data customers.
